@@ -2,13 +2,10 @@ kind: pipeline
 name: default
 
 steps:
-  - name: deploy
-    image: drillster/drone-rsync
-    settings:
-      hosts:
-        from_secret: Hosts
-      delete: true
-      source: ./docs
-      target: /root/apps/a-programmers-guide-to-english/
-      key:
-        from_secret: Key
+  - name: build
+    image: node:6-slim
+    commands:
+      - node -v
+      - npm -v
+      - npm install --global gitbook-cli
+      - gitbook install && gitbook build

@@ -24,22 +24,12 @@
 
 请移步：
 
-* [语言学习的本质浅析](/essence/)
-* [如何构建一个识别英语的程序](/make-a-program/)
-* [我的训练方法](/training/)
-* [常见问题 QA](/qa/)
-* [资料、工具推荐和扩展阅读](/resources/)
+- [语言学习的本质浅析](/essence/)
+- [如何构建一个识别英语的程序](/make-a-program/)
+- [我的训练方法](/training/)
+- [常见问题 QA](/qa/)
+- [资料、工具推荐和扩展阅读](/resources/)
 
 ## 写在后面
 
-编写这份指南的**第一版花费了超过 20 个小时，跨度 19 天**。如果为你带来了一些帮助，也希望可以对我的工作进行一些捐助，因为目前我没有工作在家里蹲着，全靠大家捐助吃饭。
-
-| 支付宝 | 微信 | Paypal |
-|---|---|---|
-| <img src="./assets/donate-alipay.jpg" width="300"> | <img src="./assets/donate-wx.jpg" width="300"> | [Paypal Me](https://www.paypal.me/yujiangshui) |
-
-此外，为了方便英语交流，我建了 [Telegram 群](https://t.me/joinchat/FgiD7Q971k4AMpq1jmO-OA)，如果不方便也可以添加下面作者微信：
-
-**请务必备注“进英语群”否则不会通过好友。**
-
-<img src="./assets/wx-robot.jpg" width="300">
+目前我还在持续学习英语，并有规划开发一些产品辅助学习，欢迎关注我的 [GitHub](https://github.com/yujiangshui)、[知乎](https://www.zhihu.com/)、[Twitter](https://twitter.com/yujiangshui) 以便看到最新相关进展和一些分享。
